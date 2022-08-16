@@ -21,7 +21,8 @@ Start Apache and MySQL open your webbrowser and go to http://localhost/phpmyadmi
 
 4. Create new Database bitcoin
 
-5.Table addresses  with 5 Columns 
+5.Table addresses
+With 5 Columns 
 id int 255 primary
 seed var 255
 compressed var 255
@@ -45,3 +46,19 @@ pip install mysql-connector
 We can go to http://localhost/indexbtc.php to see the result or check what we have scanned.
 
 ![image](https://user-images.githubusercontent.com/88630056/184959731-c48faeb1-58c2-4e1b-8371-41712c2908c5.png)
+
+## ETH Version 
+
+![image](https://user-images.githubusercontent.com/88630056/184963243-26753562-9ec1-488f-b977-13d3dfa6076f.png)
+
+![image](https://user-images.githubusercontent.com/88630056/184963294-c929addf-3329-4b9f-8bbf-039aba66760f.png)
+
+Create Table ethereum  
+With 3 Columns 
+id int 255 primary
+Address var 255
+Privatekey var 255
+
+http://localhost/indexeth.php
+
+![image](https://user-images.githubusercontent.com/88630056/184963443-8f1be9f7-b3be-463e-adc7-bc7693d298a4.png)
