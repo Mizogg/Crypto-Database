@@ -17,6 +17,9 @@ Install once downloaded.
 2. Delete The contents of C:\xampp\htdocs and replace with php files
 
 3. Run Xmapp
+
+![image](https://user-images.githubusercontent.com/88630056/184964846-205179dd-3900-48b9-9f4c-f6585429f519.png)
+
 Start Apache and MySQL open your webbrowser and go to http://localhost/phpmyadmin/
 
 4. Create new Database bitcoin
